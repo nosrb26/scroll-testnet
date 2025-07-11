@@ -1,1 +1,1 @@
-# scroll-testnet-v2
+# scroll-testnet-v3
